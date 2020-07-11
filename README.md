@@ -1,6 +1,3 @@
 # Tic Tac Toe Game
 
-Let's learn about CD while using GitHub Actions and the GitHub Package Registry!
-
-
-Head over to your first [Pull Request](../../pull/1) to get started
+![Docker CD](https://github.com/danielschnetler/github-actions-for-packages/workflows/Docker%20CD/badge.svg)
